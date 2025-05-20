@@ -28,7 +28,7 @@ Inspired by modern computer vision applications, it aims to simulate how AI can 
   The dataset is **excluded from this repository** to avoid copyright issues.
 
 > ⚠️ All images used in this project were collected solely for educational purposes and are stored locally.  
-> To build your own dataset, use the `01_activity-crawling.ipynb` notebook or the `scripts/crawl_images.py` file.
+> To build your own dataset, use the `activity-crawling.ipynb` notebook 
 
 ---
 
